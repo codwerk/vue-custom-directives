@@ -1,4 +1,5 @@
-# vue-custom-directives
+# Vue custom directives
+>Créer des directives personnalisées pour implémenter des comportements personnalisés dans une applications.
 
 ## Project setup
 ```
